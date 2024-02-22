@@ -14,7 +14,7 @@ const Hero = () => {
               
 
               <h1 className="mb-8 text-3xl font-bold  sm:text-4xl md:mb-12 md:text-5xl">
-                I'm Samuel Abebayehu
+                I&apos;m Samuel Abebayehu
               </h1>
               <p className="mb-4 font-semibold font-mono md:mb-6 md:text-lg xl:text-xl">
                 Full Stack <span className="animate-pulse text-orange-600 font-extrabold">Dev_</span>
