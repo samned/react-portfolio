@@ -13,7 +13,7 @@ const Hero = () => {
           <h1 className="font-mono">Full Stack Dev_</h1>
         </div>
         <div>
-          <Image priority src={SvgIcon} alt="Follow us on Twitter" />
+          <Image priority src={SvgIcon} alt="My Icon" />
         </div>
       </div>
     </section>
