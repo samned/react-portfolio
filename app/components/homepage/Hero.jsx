@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="py-8 mx-12 max-w-screen-xl lg:py-16 lg:px-12 text-left flex">
         <div>
           <h1 className="mb-4 text-3xl  font-extrabold tracking-tight leading-none text-gray-900 md:text-4xl lg:text-5xl dark:text-white">
-            I'm Samuel Abebayehu
+            I&quot;m Samuel Abebayehu
           </h1>
           <h1 className="font-mono">Full Stack Dev_</h1>
         </div>
